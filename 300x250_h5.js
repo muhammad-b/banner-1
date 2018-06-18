@@ -10,7 +10,7 @@ lib.properties = {
 	color: "#FF0000",
 	manifest: [
 		{src:"images/button.png", id:"button"},
-		{src:"images/HG_300x250.png", id:"HG_300x250"}
+		{src:"images/1805_CON_InnovationWeekRebranding-300x250px.png", id:"HG_300x250"}
 	]
 };
 
